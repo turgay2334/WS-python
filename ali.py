@@ -1,1 +1,2 @@
 print("ali")
+print("veli")
